@@ -1,2 +1,1 @@
-# hand
-hand
+# Syntech Site
